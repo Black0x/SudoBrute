@@ -1,5 +1,8 @@
 # SudoBrute
-A python script to brute force sudo passwords
+A python script to brute force sudo password from a wordlist
+
+Execute command: 
+./SudoBrute.py <wordlist>
 
 Coded by Black0x
 
